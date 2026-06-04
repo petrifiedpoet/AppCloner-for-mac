@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+build/
+AppCloner.dmg
+
+# Xcode / Swift build folders
+.build/
+Packages/
+xcuserdata/
+DerivedData/
