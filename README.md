@@ -1,6 +1,6 @@
 # AppCloner (macOS 应用程序多开/分身生成器)
 
-AppCloner 是一个专为 macOS 设计的通用应用程序双开/多开分身管理工具。它通过动态链接库注入（dylib interposition）技术拦截底层 POSIX 和 Cocoa 目录查找 API，让任意 App 都能在完全隔离的沙盒数据目录中运行，实现真正的多实例同时运行（如在同一台 Mac 上同时登录两个不同的 Bambu Studio 账号）。
+AppCloner 是一个专为 macOS 设计的通用应用程序双开/多开分身管理工具。它通过动态链接库注入（dylib interposition）技术拦截底层 POSIX 和 Cocoa 目录查找 API，让任意 App 都能在完全隔离的沙盒数据目录中运行，实现真正的多实例同时运行。
 
 ## 🌟 主要功能
 
